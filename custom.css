@@ -80,7 +80,6 @@ html *{
   height: 300px;
   width: auto;
   margin-top: 20px;
-  margin-bottom: 30px;
 }
 
 @media screen and (max-width: 900px){
