@@ -80,5 +80,6 @@ html *{
 .cover_img{
   height: 300px;
   width: auto;
+  margin-top: 10px;
 }
 
