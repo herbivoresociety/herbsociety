@@ -79,6 +79,6 @@ html *{
 
 .cover_img{
   height: 350px;
-  max-height: 10%;	
+  width: auto;	
 }
 
