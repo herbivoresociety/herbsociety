@@ -89,8 +89,9 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
-  .mainpage-img{
-  	margin-top: 0 !important;
+  .col-sm-4{
+  	margin-top: 5px !important;
+	margin-bottom: 5px !important;
   }	
 }
 
