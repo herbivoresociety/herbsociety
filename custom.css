@@ -84,13 +84,13 @@ html *{
   margin-bottom: 30px;
 }
 
-@media screen and (max-device-width: 900px){
+@media screen and (max-width: 900px){
   img{
 	  max-width: 95%;
+	  height: auto;
   }
   .mainpage-img{
-  	margin-top:20px;
- 
+  	margin-top:20px !important;
   }	
 }
 
