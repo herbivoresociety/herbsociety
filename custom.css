@@ -89,7 +89,7 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
-  .row{
+  ._li{
   	margin-top: -70px !important;
 	margin-bottom: -70px !important;
   }	
