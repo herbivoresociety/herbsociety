@@ -89,7 +89,7 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
-  iframe{
+  .row{
   	margin-top: 5px !important;
 	margin-bottom: 5px !important;
   }	
