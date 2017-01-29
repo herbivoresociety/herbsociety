@@ -84,3 +84,13 @@ html *{
   margin-bottom: 30px;
 }
 
+@media screen and (device-width: 800px){
+  img{
+	  max-width: 95%;
+  }
+  .mainpage-img{
+  	margin-top:20px;
+ 
+  }	
+}
+
