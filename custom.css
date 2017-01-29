@@ -89,9 +89,8 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
-  ._li{
+  .col-sm-4{
   	margin-top: -270px !important;
 	margin-bottom: -270px !important;
   }	
 }
-
