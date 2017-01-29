@@ -86,11 +86,12 @@ html *{
 
 @media screen and (max-width: 900px){
   img{
-	  max-width: 95%;
+	  max-width: 125%;
 	  height: auto;
   }
   .mainpage-img{
-  	margin-top:20px !important;
+  	margin-top:-30px !important;
+	margin-bottom: -20px !important;
   }	
 }
 
