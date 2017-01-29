@@ -78,8 +78,7 @@ html *{
 }
 
 .cover_img{
-  height: auto;
+  height: 300px;
   width: auto;
-  max-height: 350px;
 }
 
