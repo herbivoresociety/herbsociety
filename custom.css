@@ -80,6 +80,7 @@ html *{
   height: 300px;
   width: auto;
   margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 @media screen and (max-width: 900px){
@@ -87,8 +88,8 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
-  .mobile-img{
-  	margin-top: -270px !important;
-	margin-bottom: -270px !important;
+  .cover-img{
+  	margin-top: 5px !important;
+        margin-bottom: 5px !important;
   }	
 }
