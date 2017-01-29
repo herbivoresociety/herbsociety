@@ -90,8 +90,8 @@ html *{
 	  height: auto;
   }
   .row{
-  	margin-top: 5px !important;
-	margin-bottom: 5px !important;
+  	margin-top: -70px !important;
+	margin-bottom: -70px !important;
   }	
 }
 
