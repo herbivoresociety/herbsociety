@@ -90,7 +90,7 @@ html *{
 	  height: auto;
   }
   .mainpage-img{
-  	margin-top: 5px !important;
+  	margin-top: -75px !important;
         margin-bottom: 5px !important;
   }	
 }
