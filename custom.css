@@ -90,7 +90,7 @@ html *{
   }
   .img-responsive{
   }	
-  .mainpage-img{
-	margin-bottom: -50px !important;	
+  .hidden {
+  	display: none !important;
   }
 }
