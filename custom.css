@@ -45,6 +45,7 @@ html *{
 
 .mainpage-container{
 	margin-top:65px;
+	margin-bottom: 50px;
 }
 
 .mainpage-welcome{
@@ -86,7 +87,7 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
-  .mainpage-img{
+  .img-responsive{
   	margin-top: -75px !important;
         margin-bottom: 5px !important;
   }	
