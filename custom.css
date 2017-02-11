@@ -88,6 +88,10 @@ html *{
 	  max-width: 100%;
 	  height: auto;
   }
+  .mainpage-img{
+	margin: 5px !important;
+	padding: 0px !important;
+  }
   .img-responsive{
   }	
   .hidden {
