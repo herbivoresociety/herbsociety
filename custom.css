@@ -81,13 +81,6 @@ html *{
   margin-bottom: 50px;
 }
 
-.cover_img{
-  height: 300px;
-  width: auto;
-  margin-top: 20px;
-  margin-bottom: 30px;
-}
-
 @media screen and (min-width: 900px){
   img{
 	  max-width: 100%;
