@@ -77,6 +77,10 @@ html *{
   margin-top:130px;
 }
 
+.img-responsive{
+  margin-bottom: 50px;
+}
+
 .cover_img{
   height: 300px;
   width: auto;
