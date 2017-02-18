@@ -107,8 +107,8 @@ html *{
     margin-top:50px !important;
   }
   issuuembed{
-    width:250px !important;
-    height:200px !important;
+    width:250px;
+    height:200px;
     margin-bottom: 200px;
   }
   iframe{
