@@ -45,7 +45,6 @@ html *{
 }
 
 #navfluid .navbar-collapse{
-  margin-top:50px !important;
   text-align:center;
 }
 
@@ -99,7 +98,8 @@ html *{
     max-width: 100%;
     height: auto;
   }
-  .col-sm-4{
+  #navfluid .navbar-collapse{
+    margin-top:50px !important;
   }
   iframe{
     float:center;
