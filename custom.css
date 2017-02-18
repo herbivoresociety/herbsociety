@@ -103,7 +103,7 @@ html *{
     max-width: 100%;
     height: auto;
   }
-  container{
+  .container{
     width:85%;	  
   }
   #navfluid .navbar-collapse{
