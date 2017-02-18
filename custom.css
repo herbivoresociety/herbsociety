@@ -115,6 +115,11 @@ li{
     word-wrap: break-word; /* Internet Explorer 5.5+ */
   }
 }
+@media screen and (max-device-width: 700px){
+    #fbpost3{
+    display:none;
+  }
+}
 
 @media screen and (max-device-width: 480px){
   img{
