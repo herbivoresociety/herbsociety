@@ -98,6 +98,7 @@ li{
 .issuuembed{
   height:400px;
   width: 400px;
+  margin-top:80px;
 }
 
 @media screen and (max-device-width: 480px){
