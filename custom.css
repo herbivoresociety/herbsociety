@@ -8,6 +8,10 @@ html *{
   font-family:courier;
 }
 
+#credit{
+  margin-top:-50px;
+}
+
 .contact a{
   color:#a6a6a6;
   text-decoration:underline;
@@ -160,5 +164,8 @@ li{
     white-space: -pre-wrap; /* Opera 4-6 */    
     white-space: -o-pre-wrap; /* Opera 7 */    
     word-wrap: break-word; /* Internet Explorer 5.5+ */
+  }
+  #credit{
+    margin-top:0px!important;
   }
 }
