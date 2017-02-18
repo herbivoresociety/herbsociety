@@ -101,6 +101,9 @@ html *{
   #navfluid .navbar-collapse{
     margin-top:50px !important;
   }
+  issuuembed{
+    width:100%;
+  }
   iframe{
     float:center;
   margin-bottom: -300px!important;
