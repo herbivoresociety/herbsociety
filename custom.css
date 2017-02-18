@@ -44,6 +44,11 @@ html *{
   align-items:center;
 }
 
+#navfluid .navbar-collapse{
+  margin-top:50px !important;
+  text-align:center;
+}
+
 .mainpage-img{
   width: 100%;
   margin-top:80px;
