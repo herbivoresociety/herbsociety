@@ -103,6 +103,7 @@ html *{
   }
   issuuembed{
     width:100%;
+    height:200px;
   }
   iframe{
     float:center;
