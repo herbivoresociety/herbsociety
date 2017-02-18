@@ -120,6 +120,7 @@ li{
     margin-top:50px !important;
   }
   .issuuembed{
+    float:center;
     width:230px;
     height:200px;
     margin-bottom: 200px;
@@ -133,7 +134,7 @@ li{
     margin-bottom: -180px!important;
     padding:0px!important;
     max-width:95%;
-    max-height:620px;
+    max-height:600px;
   }
   a{
     white-space: pre-wrap; /* css-3 */    
