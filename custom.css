@@ -104,7 +104,8 @@ html *{
     height: auto;
   }
   .veghowto-bottom{
-    max-width:85%;	  
+    max-width:85%;
+    float:center;
   }
   #navfluid .navbar-collapse{
     margin-top:50px !important;
