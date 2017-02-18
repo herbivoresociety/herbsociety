@@ -107,6 +107,8 @@ li{
   }
   .mainpage-img{
      margin-top:70px;
+     max-width:350px;
+     float:center;
    }
   .veghowto-bottom{
     max-width:85%;
