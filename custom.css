@@ -109,6 +109,7 @@ html *{
   issuuembed{
     width:250px !important;
     height:200px !important;
+    margin-bottom: 200px;
   }
   iframe{
     float:center;
