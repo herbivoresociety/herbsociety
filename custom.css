@@ -108,6 +108,8 @@ li{
   .mainpage-img{
      margin-top:70px;
      max-width:350px;
+     margin-left:auto;
+     margin-right:auto;
      float:center;
    }
   .veghowto-bottom{
