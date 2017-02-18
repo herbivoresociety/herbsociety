@@ -44,7 +44,7 @@ html *{
   align-items:center;
 }
 
-.container-fluid .navbar-collapse{
+#navfluid .navbar-collapse{
   margin-top:50px !important;
   text-align:center;
 }
