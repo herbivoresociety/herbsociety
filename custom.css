@@ -2,7 +2,6 @@ nav{
 	margin-top:50px;
 	background:transparent;
 	border:transparent;
-	z-index:3;
 }
 
 html *{
@@ -69,7 +68,9 @@ html *{
 .veghowto{
   margin-top:65px;
 }
-
+li{
+   z-index:3;
+}
 .veghowto-list{
   margin-left:18px;
 }
