@@ -125,7 +125,7 @@ li{
   iframe{
     float:center;
     margin-top:-50px;
-    margin-bottom: -270px!important;
+    margin-bottom: -250px!important;
     padding:0px!important;
   }
   a{
@@ -134,5 +134,5 @@ li{
     white-space: -pre-wrap; /* Opera 4-6 */    
     white-space: -o-pre-wrap; /* Opera 7 */    
     word-wrap: break-word; /* Internet Explorer 5.5+ */
-}
+  }
 }
