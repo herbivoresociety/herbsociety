@@ -100,7 +100,7 @@ li{
   width: 400px;
 }
 
-@media screen and (max-device-width: 800px){
+@media screen and (max-device-width: 480px){
   img{
     max-width: 100%;
     height: auto;
