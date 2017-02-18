@@ -137,6 +137,9 @@ li{
   #navfluid .navbar-collapse{
     margin-top:50px !important;
   }
+  .navbar-brand>img {
+    margin-right:50%;
+  }
   .issuuembed{
     float:center;
     width:230px;
