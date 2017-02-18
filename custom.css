@@ -128,6 +128,9 @@ li{
   .contact{
     font-size:12pt;
   }
+  #fbpost3{
+    display:none;
+  }
   iframe{
     float:center;
     margin-top:-50px;
