@@ -93,6 +93,11 @@ html *{
   margin-bottom: 50px;
 }
 
+.issuuembed{
+  height:400px;
+  width: 400px;
+}
+
 @media screen and (max-device-width: 480px){
   img{
     max-width: 100%;
