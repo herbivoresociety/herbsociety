@@ -106,6 +106,10 @@ li{
   margin-top:80px;
 }
 
+.mailchimp-width{
+   width: 50%;
+}
+
 @media screen and (max-device-width: 1100px){
     a{
     white-space: pre-wrap; /* css-3 */    
